@@ -1,5 +1,4 @@
 # Gotta Go!
-gotta-go.github.io
 
 ##### Team Name: Gotta Go
 Team Member Names:  
@@ -13,3 +12,6 @@ Shumael Syed - Student Number 300024162
 
 Description:
 Gotta Go is a mobile application that uses mapping services and public reviews to allow users locate the nearest and highest quality public restrooms around.
+
+Site Address:
+gotta-go.github.io
