@@ -5,7 +5,7 @@ Team Member Names:
 Anojan Sabaratnam - Student Number 300022285  
 Tommy Deng - Student Number 300007070  
 Kieran Moynihan - Student Number 300025491  
-Shumael ______ - Student Number
+Shumael Syed - Student Number 300024162
 
 
 ##### Product Name: Gotta Go
