@@ -8,6 +8,6 @@ Kieran Moynihan - Student Number 300025491
 Shumael ______ - Student Number
 
 
-##### Product Name: Roomie
+##### Product Name: Gotta Go
 Description:  
 Gotta Go is an app service that allows users to find the nearest and highest quality restrooms around.
