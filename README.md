@@ -9,5 +9,6 @@ Shumael Syed - Student Number 300024162
 
 
 ##### Product Name: Gotta Go
-Description:  
-Gotta Go is an app service that allows users to find the nearest and highest quality restrooms around.
+
+Description:
+Gotta Go is a mobile application that uses mapping services and public reviews to allow users locate the nearest and highest quality public restrooms around.
