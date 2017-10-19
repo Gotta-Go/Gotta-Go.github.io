@@ -15,9 +15,14 @@ body{
     overflow: hidden;
 }
 
-.column{
+.column_triple{
     float: left;
-    width: 50%;
+    width: 33%;
+}
+
+.column_double{
+    float: left;
+    width: 50%
 }
 
 .left{
@@ -103,7 +108,7 @@ header a:hover{
 }
 
 #break{
-    padding: 15px;
+    padding: 8px;
     color: #ffffff;
     background: #ffffff;
 }
