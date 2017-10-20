@@ -20,6 +20,7 @@
 * add signin button (goes to nothing or something else)
 * add feature for bathroom types (male, female, unisex, disabled, family)
 * add feature on toilet paper reliability rating
+* have a different banner image on each page?
 
 
 ## Low
