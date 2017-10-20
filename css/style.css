@@ -104,7 +104,7 @@ header a:hover{
 /* Showcase */
 #showcase{
     min-height: 500px;
-    /*background: url('../img/map.jpg') no-repeat 0 -400px;*/
+    background: url('../img/banner.jpg') no-repeat 0 -64px;
     text-align: center;
     color: #000000;
 }
