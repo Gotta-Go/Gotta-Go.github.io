@@ -8,6 +8,7 @@ body{
     background-color: #fafafa;
 }
 
+/* Fonts */
 @font-face {
     font-family: "Futura";
     src: url("../fonts/FuturaLT.ttf") format('truetype');
@@ -16,8 +17,50 @@ body{
 }
 
 @font-face {
-    font-family: "HelveticaStd";
+    font-family: "Helvetica";
     src: url("../fonts/HelveticaLTStd-Roman.otf") format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "HelveticaLight";
+    src: url("../fonts/HelveticaLTStd-Light.otf") format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Playfair";
+    src: url("../fonts/PlayfairDisplay-Regular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Din";
+    src: url("../fonts/DINRegular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("../fonts/Roboto-Regular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Raleway";
+    src: url("../fonts/Raleway-Regular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Lato";
+    src: url("../fonts/Lato-Regular.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
