@@ -3,7 +3,7 @@
 
 
 ## Urgent
-* 
+* create 'final' site design in Photoshop before implimentation
 
 
 ## Important
