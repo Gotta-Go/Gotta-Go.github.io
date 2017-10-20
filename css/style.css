@@ -11,8 +11,15 @@ body{
 @font-face {
     font-family: "Futura";
     src: url("../fonts/FuturaLT.ttf") format('truetype');
-    /*font-weight: bold;
-    font-style: normal;*/
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "HelveticaStd";
+    src: url("../fonts/HelveticaLTStd-Roman.otf") format('opentype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 /* Global */
