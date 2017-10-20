@@ -106,6 +106,7 @@ header ul{
 
 /* Header */
 header{
+    font-family: "HelveticaLight";
     background: rgba(0,0,0,0.8);
     color: #ffffff;
     padding-top: 5px;
