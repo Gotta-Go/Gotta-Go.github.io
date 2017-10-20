@@ -18,6 +18,8 @@
 * lessen spacing between play store and app store column (rededucing percentage in column_double class does not work?)
 * add play and app store links (go to their main website)
 * add signin button (goes to nothing or something else)
+* add feature for bathroom types (male, female, unisex, disabled, family)
+* add feature on toilet paper reliability rating
 
 
 ## Low
