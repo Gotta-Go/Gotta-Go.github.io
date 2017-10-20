@@ -32,6 +32,11 @@ body{
     width: 50%;
 }
 
+.column_double_store{
+    float: left;
+    width: 50%;
+}
+
 .left{
     
 }
