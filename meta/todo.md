@@ -7,7 +7,8 @@
 
 
 ## Important
-* furnish __EACH__ site page with relevent and well-designed content
+* furnish __EACH__ site page with relevent *and* well-designed content
+* finalize typography
 
 
 ## Normal
@@ -21,6 +22,7 @@
 
 
 #### Note - Markdown Overview:
+
 ```language
 	code
 	block
@@ -37,4 +39,4 @@ __bold_underscore__, **bold_asterisk**
 
 ___bolded___ ***italics***
 
-    made with the [jbt's markdown editor](http://jbt.github.io/markdown-editor/)
+* made with the [jbt's markdown editor](http://jbt.github.io/markdown-editor/)
