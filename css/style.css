@@ -191,6 +191,11 @@ header a:hover{
     padding: 50px;
 }
 
+#list{
+    text-align: left;
+    padding: 50px;
+}
+
 footer{
     padding: 20px;
     margin-top: 20px;
