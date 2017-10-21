@@ -7,6 +7,7 @@
 
 
 ## Important
+* javascript implimentation?
 * furnish __EACH__ site page with relevent *and* well-designed content
 * finalize typography
 * change logo to just a blue circle with white shine dot (so that the shape is more uniform / not elongated)? if true, shorten height of navigation bar
