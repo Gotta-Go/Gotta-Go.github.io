@@ -10,7 +10,7 @@
 * javascript implimentation?
 * furnish __EACH__ site page with relevent *and* well-designed content
 * finalize typography
-* change logo to just a blue circle with white shine dot (so that the shape is more uniform / not elongated)? if true, shorten height of navigation bar
+* logo redesign: change logo to just a blue circle with white shine dot (so that the shape is more uniform / not elongated)? if true, shorten height of navigation bar
 * create icon art/graphic design
 * grand, fitting images at the top head
 
@@ -22,6 +22,8 @@
 * add feature for bathroom types (male, female, unisex, disabled, family)
 * add feature on toilet paper reliability rating
 * have a different banner image on each page?
+* index ("we've got you covered"): adjust values, left align, bullet points(?), icons, JS counter(?)
+* JS: interactive scrolling (ex. near the bottom of the [app store](https://www.apple.com/ca/ios/app-store/) or an [article](http://www.abc.net.au/news/2017-10-16/north-korea-missile-range-map/8880894))
 
 
 ## Low
