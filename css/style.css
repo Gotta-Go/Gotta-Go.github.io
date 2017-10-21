@@ -87,6 +87,16 @@ body{
     width: 50%;
 }
 
+.button_bordered{
+    padding: 15px 35px;
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0);
+    border-color: #3498db;
+    border-width: 2px;
+    text-align: center;
+    border-style: solid;
+}
+
 .left{
     
 }
@@ -148,8 +158,17 @@ header .highlight, header .current a{
 }
 
 header a:hover{
-    color: #cccccc;
+    color: #3498db;
     /*font-weight: bold;*/
+}
+
+header a.button_bordered:hover{
+    background: #3498db;
+    color: #ffffff;
+}
+
+header a.current{
+    color: #3498db;
 }
 
 /* Showcase */
