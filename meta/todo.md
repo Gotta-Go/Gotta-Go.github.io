@@ -13,6 +13,7 @@
 * logo redesign: change logo to just a blue/grey circle with white shine dot (so that the shape is more uniform / not elongated)? if true, shorten height of navigation bar
 * create icon art/graphic design
 * grand, fitting images at the top head
+* consistent alignment of banner image -> edit image so the desired alignment is at the center and have it centered on the page (see ./meta/banner_alignment.png)
 
 
 ## Normal
@@ -40,6 +41,8 @@ fill in footer with more information (see [apple's website](apple.com/ca/))
 
 > quote
 
+~~strikethrough~~
+
 ```language
 	code
 	block
@@ -60,6 +63,8 @@ ___bolded___ ***italics*** _combined **together**_
 
 ```
 #### Note - Markdown Overview:
+
+~~strikethrough~~
 
 > quote
 
