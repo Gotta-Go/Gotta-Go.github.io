@@ -28,6 +28,7 @@
 fill in footer with more information (see [apple's website](apple.com/ca/))
 * add contact email form
 * add better page resizing (the width:80% restricts the page and cuts off images when it becomes small?)
+* add page icon (appears in the browser tab)
 
 
 
