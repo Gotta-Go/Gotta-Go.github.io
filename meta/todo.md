@@ -26,6 +26,7 @@
 * JS: interactive scrolling (ex. near the bottom of the [app store](https://www.apple.com/ca/ios/app-store/) or an [article](http://www.abc.net.au/news/2017-10-16/north-korea-missile-range-map/8880894))
 * remove blue highlight in navigation bar?
 * finalize colour on icon set
+* add drop shadow to icon set?
 
 
 ## Low

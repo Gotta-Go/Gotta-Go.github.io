@@ -38,21 +38,7 @@ input[type=submit]{
     line-height: 10px;
 }
 
-header a.button_bordered{
-    border-color: #3498db;
-    color: #3498db;
-}
-
-header a.button_bordered:hover{
-    background: #3498db;
-    color: #ffffff;
-}
-
-header a.current{
-    color: #ffffff;
-}
-
 #signin{
     text-align: center;
-    padding: 50px
+    padding: 50px;
 }
