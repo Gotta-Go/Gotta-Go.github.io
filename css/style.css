@@ -52,7 +52,6 @@ header{
     background: rgba(0,0,0,0.8);
     color: #ffffff;
     padding-top: 5px;
-    min-height: 20px;
     border-bottom: #3498db 3px solid;
     position: fixed;
     width: 100%;
@@ -90,24 +89,6 @@ header a:hover{
     /*font-weight: bold;*/
 }
 
-<<<<<<< HEAD
-header a.button_bordered{
-    border-color: #3498db;
-    color: #3498db;
-}
-
-header a.current{
-    background: #3498db;
-    color: #ffffff;
-}
-
-header a.button_bordered:hover{
-    background: #3498db;
-    color: #ffffff;
-}
-
-=======
->>>>>>> 3d139fdcb76d5233fe032643e894ea040c42d644
 /* Showcase */
 #showcase{
     height: 750px;
