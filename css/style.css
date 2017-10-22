@@ -90,7 +90,6 @@ header a:hover{
     /*font-weight: bold;*/
 }
 
-<<<<<<< HEAD
 header a.button_bordered{
     border-color: #3498db;
     color: #3498db;
@@ -106,8 +105,6 @@ header a.button_bordered:hover{
     color: #ffffff;
 }
 
-=======
->>>>>>> 3d139fdcb76d5233fe032643e894ea040c42d644
 /* Showcase */
 #showcase{
     height: 750px;
