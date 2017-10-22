@@ -16,27 +16,25 @@ body{
     overflow: hidden;
 }
 
-.column_triple{
-    float: left;
-    width: 33%;
-}
-
 .column_double{
     float: left;
     width: 50%;
 }
 
+.column_triple{
+    float: left;
+    width: 33%;
+}
+
+.column_quintuple{
+    float: left;
+    width: 16%;
+    padding: 16px;
+}
+
 .column_double_store{
     float: left;
     width: 50%;
-}
-
-.left{
-    
-}
-
-.right{
-    
 }
 
 .center{
