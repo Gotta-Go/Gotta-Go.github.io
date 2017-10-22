@@ -8,63 +8,6 @@ body{
     background-color: #fafafa;
 }
 
-/* Fonts */
-@font-face {
-    font-family: "Futura";
-    src: url("../fonts/FuturaLT.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Helvetica";
-    src: url("../fonts/HelveticaLTStd-Roman.otf") format('opentype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "HelveticaLight";
-    src: url("../fonts/HelveticaLTStd-Light.otf") format('opentype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Playfair";
-    src: url("../fonts/PlayfairDisplay-Regular.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Din";
-    src: url("../fonts/DINRegular.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Roboto";
-    src: url("../fonts/Roboto-Regular.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Raleway";
-    src: url("../fonts/Raleway-Regular.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "Lato";
-    src: url("../fonts/Lato-Regular.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
 /* Global */
 .container{
     width: 80%;
@@ -73,26 +16,9 @@ body{
     overflow: hidden;
 }
 
-input[type=text], input[type=password]{
-    font-family: "Futura";
-    padding: 10px 0px;
-    padding-left: 7px;
-    box-shadow: inset 0 2px 5px #f2f2f2;
-    border: 1px solid #cccccc;
-    border-radius: 5px;
-    font-size: 20px;
+.column_double{
+    float: left;
     width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-bottom: 20px;
-    height: auto;
-    line-height: 5px;
-    text-align: left;
-}
-
-input[type=text]:hover, input[type=password]:hover, input[type=text]:focus, input[type=password]:focus{
-    box-shadow: inset 0 2px 5px #808080;
-    border-color: #000000;
 }
 
 .column_triple{
@@ -100,39 +26,15 @@ input[type=text]:hover, input[type=password]:hover, input[type=text]:focus, inpu
     width: 33%;
 }
 
-.column_double{
+.column_quintuple{
     float: left;
-    width: 50%;
+    width: 16%;
+    padding: 16px;
 }
 
 .column_double_store{
     float: left;
     width: 50%;
-}
-
-.button_bordered, input[type=submit]{
-    padding: 15px 35px;
-    border-radius: 5px;
-    background: rgba(0, 0, 0, 0);
-    border: 2px solid #000000;
-    text-align: center;
-    text-decoration: none;
-    color: #000000;
-}
-
-input[type=submit]{
-    cursor: pointer;
-    font-family: "Futura";
-    font-size: 21px;
-    line-height: 10px;
-}
-
-.left{
-    
-}
-
-.right{
-    
 }
 
 .center{
@@ -188,6 +90,7 @@ header a:hover{
     /*font-weight: bold;*/
 }
 
+<<<<<<< HEAD
 header a.button_bordered{
     border-color: #3498db;
     color: #3498db;
@@ -203,6 +106,8 @@ header a.button_bordered:hover{
     color: #ffffff;
 }
 
+=======
+>>>>>>> 3d139fdcb76d5233fe032643e894ea040c42d644
 /* Showcase */
 #showcase{
     height: 750px;
@@ -235,11 +140,6 @@ header a.button_bordered:hover{
 #overview{
     text-align: center;
     padding: 50px;
-}
-
-#signin{
-    text-align: center;
-    padding: 50px
 }
 
 #stats{
