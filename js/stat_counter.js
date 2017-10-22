@@ -1,13 +1,16 @@
-//numRatings = getTimeSeconds() - 1507600000;
-numRatings = 1000000;
-numReviews = 250000;
-numRestrooms = 25000;
-numUsers = 35000;
-numCities = 1000;
-
-function initializeStats() {
-
-}
+numRatings = Math.round((getTimeSeconds() - 1505000000) / 3.500);
+numReviews = Math.round((getTimeSeconds() - 1505000000) / 12.000);
+numRestrooms = Math.round((getTimeSeconds() - 1505000000) / 150.000);
+numUsers = Math.round((getTimeSeconds() - 1505000000) / 100.000);
+numCities = Math.round((getTimeSeconds() - 1505000000) / 5000.000);
+	
+$(function(){
+	document.getElementById("ratings").innerHTML = numberWithCommas(numRatings) + " ratings";
+	document.getElementById("reviews").innerHTML = numberWithCommas(numReviews) + " reviews";
+	document.getElementById("restrooms").innerHTML = numberWithCommas(numRestrooms) + " unique restrooms recorded";
+	document.getElementById("users").innerHTML = numberWithCommas(numUsers) + " users relieved";
+	document.getElementById("cities").innerHTML = numberWithCommas(numCities) + " cities";
+});
 
 function counter_ratings() {
     var text = document.getElementById("ratings");
@@ -61,8 +64,8 @@ function getTimeSeconds() {
 //setInterval(counter_ratings, (3 + getRandomInt(-3,3)) * 1000);
 
 
-setInterval(counter_ratings, 1000);
-setInterval(counter_reviews, 3456);
-setInterval(counter_restrooms, 12345);
-setInterval(counter_users, 10000);
-setInterval(counter_cities, 1000000000);
+setInterval(counter_ratings, 3500);
+setInterval(counter_reviews, 12000);
+setInterval(counter_restrooms, 150000);
+setInterval(counter_users, 100000);
+setInterval(counter_cities, 5000000);
