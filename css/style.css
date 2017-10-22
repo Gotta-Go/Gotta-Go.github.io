@@ -161,6 +161,7 @@ header a{
     text-decoration: none;
     /*text-transform: uppercase;*/
     font-size: 14px;
+    transition: color 0.3s, background 0.3s;
 }
 
 header li{
@@ -182,11 +183,6 @@ header nav{
     margin-top: 10px;
 }
 
-header .highlight, header .current a{
-    color: #3498db;
-    /*font-weight: bold;*/
-}
-
 header a:hover{
     color: #3498db;
     /*font-weight: bold;*/
@@ -197,13 +193,14 @@ header a.button_bordered{
     color: #3498db;
 }
 
-header a.button_bordered:hover{
+header a.current{
     background: #3498db;
     color: #ffffff;
 }
 
-header a.current{
-    color: #3498db;
+header a.button_bordered:hover{
+    background: #3498db;
+    color: #ffffff;
 }
 
 /* Showcase */
@@ -253,6 +250,10 @@ header a.current{
 #list{
     text-align: left;
     padding: 50px;
+}
+
+#current{
+    color: #3498db;
 }
 
 footer{
