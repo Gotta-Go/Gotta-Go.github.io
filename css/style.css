@@ -163,6 +163,27 @@ header a.button_bordered:hover{
     padding: 50px;
 }
 
+#current{
+    color: #3498db;
+}
+
+div.rollover {
+	position: relative;
+}
+
+img.main {
+	position: absolute;
+	left: 0;
+	top: 0;
+    z-index: 0;
+}
+	
+img.usage {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
 #available{
 	text-align: center;
 	width: 60%;
