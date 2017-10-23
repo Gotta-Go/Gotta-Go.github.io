@@ -180,7 +180,12 @@ img.usage {
 	top: 0;
 }
 
-footer{
+#available{
+	text-align: center;
+	width: 60%;
+}
+
+#footer{
     padding: 20px;
     margin-top: 20px;
     font-size: 12px;
