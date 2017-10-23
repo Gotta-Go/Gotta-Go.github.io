@@ -99,12 +99,16 @@ header a:hover{
     /*font-weight: bold;*/
 }
 
+header a.current{
+	color: #3498db;
+}
+
 header a.button_bordered{
     border-color: #3498db;
     color: #3498db;
 }
 
-header a.current{
+header a.current_si{
     background: #3498db;
     color: #ffffff;
 }
@@ -157,10 +161,6 @@ header a.button_bordered:hover{
 #list{
     text-align: left;
     padding: 50px;
-}
-
-#current{
-    color: #3498db;
 }
 
 #available{
