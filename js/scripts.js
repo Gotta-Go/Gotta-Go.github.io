@@ -4,17 +4,18 @@
 //}
 	
 $(function(){
-	var currentPos = 0;
+	var currentPos = $(window).scrollTop();
 	$(window).scroll(function(event){
 		var newPos = $(this).scrollTop();
 		
-		if(newPos - currentPos > 15){
-			$("header").slideUp("fast");
+		if(newPos - currentPos > 150){
+			$("header").slideUp("slow");
+			currentPos = newPos;
 		}
-		if(newPos - currentPos < -5){
+		if(newPos - currentPos < -50){
 			$("header").slideDown("fast");
+			currentPos = newPos;
 		}
-		currentPos = newPos;
 	});
 });
 
