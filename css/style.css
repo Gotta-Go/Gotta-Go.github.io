@@ -1,5 +1,5 @@
 body{
-    font-family: "Futura";
+    font-family: "Helvetica";
     font-size: 21px;
     line-height: 1.5;
 
@@ -124,12 +124,13 @@ header a.button_bordered:hover{
 }
 
 #showcase h1{
+    font-family: "HelveticaBold";
     font-size: 55px;
     margin-top: 300px;
 }
 
 #showcase p{
-    font-size: 20px;
+    font-size: 25px;
 }
 
 #break{
@@ -171,7 +172,7 @@ header a.button_bordered:hover{
     padding: 20px;
     margin-top: 20px;
     font-size: 12px;
-    color: #000000;
+    color: #8f908f;
     background-color: #f5f5f5;
     text-align: center;
 }
