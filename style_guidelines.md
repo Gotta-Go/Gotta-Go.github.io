@@ -7,7 +7,7 @@ The website should be calm and gentle for the user, much like they will be after
 
 Colours
 ========
-Gotta Go's colours represent how we are to our customers. The colours will emphasize our pleasing attitude and drive to help them.
+Gotta Go's colours represent how we are to our customers. The colours will emphasize our pleasing attitude and our drive to help them.
 
 These are our color swatches:
 
@@ -19,10 +19,12 @@ These are our color swatches:
 Iconography
 ===========
 We will focus on using icons that have a 'flat' design, which adheres to the overall look and feel.
-When selecting an icon, please select the correct icon for the job and keep the following in mind:
+When creating and selecting the icons, please consider the following:
 
+- minimal
 - rounded
 - two-tone
+- clean
 
 Typography
 ==========
