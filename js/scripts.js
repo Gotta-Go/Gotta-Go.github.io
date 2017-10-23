@@ -8,10 +8,10 @@ $(function(){
 	$(window).scroll(function(event){
 		var newPos = $(this).scrollTop();
 		
-		if(newPos > currentPos){
+		if(newPos - currentPos > 15){
 			$("header").slideUp("fast");
 		}
-		if(newPos < currentPos){
+		if(newPos - currentPos < -5){
 			$("header").slideDown("fast");
 		}
 		currentPos = newPos;

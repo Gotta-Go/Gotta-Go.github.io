@@ -58,6 +58,7 @@ header ul{
 
 /* Header */
 header{
+	z-index: 1;
     font-family: "HelveticaLight";
     background: rgba(0,0,0,0.8);
     color: #ffffff;
