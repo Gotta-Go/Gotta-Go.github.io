@@ -1,8 +1,12 @@
-numRatings = Math.round((getTimeSeconds() - 1505000000) / 3.500);
-numReviews = Math.round((getTimeSeconds() - 1505000000) / 12.000);
-numRestrooms = Math.round((getTimeSeconds() - 1505000000) / 150.000);
-numUsers = Math.round((getTimeSeconds() - 1505000000) / 100.000);
-numCities = Math.round((getTimeSeconds() - 1505000000) / 5000.000);
+startTime = 1510785000;
+
+numRatings = Math.round((getTimeSeconds() - startTime) / 10.500);
+numReviews = Math.round((getTimeSeconds() - startTime) / 35.000);
+numRestrooms = Math.round((getTimeSeconds() - startTime) / 150.000);
+numUsers = Math.round((getTimeSeconds() - startTime) / 100.000);
+//numCities = Math.round((getTimeSeconds() - startTime) / 5000.000);
+numCities = 2;
+
 	
 $(function(){
 	document.getElementById("ratings").innerHTML = numberWithCommas(numRatings) + " ratings";
@@ -64,8 +68,8 @@ function getTimeSeconds() {
 //setInterval(counter_ratings, (3 + getRandomInt(-3,3)) * 1000);
 
 
-setInterval(counter_ratings, 3500);
-setInterval(counter_reviews, 12000);
+setInterval(counter_ratings, 10500);
+setInterval(counter_reviews, 35000);
 setInterval(counter_restrooms, 150000);
 setInterval(counter_users, 100000);
 setInterval(counter_cities, 5000000);
