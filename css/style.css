@@ -1,5 +1,5 @@
 body{
-    font-family: "Helvetica";
+    font-family: "Product sans";
     font-size: 21px;
     line-height: 1.5;
 
@@ -59,7 +59,7 @@ header ul{
 /* Header */
 header{
 	z-index: 1;
-    font-family: "HelveticaLight";
+    font-family: "Product Sans";
     background: rgba(0,0,0,0.8);
     color: #ffffff;
     padding-top: 5px;
@@ -129,7 +129,7 @@ header a.button_bordered:hover{
 }
 
 #showcase h1{
-    font-family: "HelveticaBold";
+    font-family: "Product sans bold";
     font-size: 55px;
     margin-top: 300px;
 }
